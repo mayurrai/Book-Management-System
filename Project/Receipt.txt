@@ -1,0 +1,11 @@
+-----  MINI PROJECT BOOK STORE USING JAVA  -----
+ 
+Name: mayur
+Mobile number: 7067925208
+Name of the Purchased Book: Will
+Name of Author: Will Smith and Mark Manson
+Number of copies purchased: 1
+Total Amount: 450
+Paid Amount: 450
+ 
+Transaction Successful
